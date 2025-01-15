@@ -1,35 +1,57 @@
-# Welcome to Mizan's GitHub! 👋
+# Mizan Tompkins 🚀✨
 
-## About Me 📖
-Hey there! I'm Mizan, a passionate Machine Learning Researcher and licensed pilot from San Jose State University. I thrive at the intersection of AI and real-world applications, especially in autonomous technologies. I'm currently developing the Stratus drone, a project aimed at revolutionizing search and rescue operations and wildfire detection. 🚁🔥
+👋 Hello! I'm Mizan, a 🛫 Pilot & 👨‍💻 Software Development Engineer, passionate about 🤖 AI & Machine Learning. I am an enthusiast with a robust presence of 🌍 170K+ followers on TikTok and am currently 🔍 seeking internship opportunities.
 
-## Projects 🚀
+---
+
+## 🌟 About Me
+- 🏫 **Education**: Studying at San Jose State University, specializing in Software & Computer Engineering.
+- 🌐 **Location**: San Francisco Bay Area.
+- 📈 **Interests**: AI, Machine Learning, Autonomous Drones, and of course, Aviation.
+
+## 💼 Professional Experience
+
+### Machine Learning Researcher | AI Solutions Development
+**San Jose State University**  
+🗓️ Sep 2024 - Present  
+📍 San Jose, California  
+I develop ML models focusing on **real-time predictions**, **anomaly detection**, and **object tracking**. My projects primarily enhance environmental monitoring and search and rescue operations under challenging conditions.
+
+### Artificial Intelligence/Machine Learning Team Officer
+**SJSU Software & Computer Engineering Society**  
+🗓️ Sep 2024 - Present  
+My role involves steering the development of ML projects, with a keen focus on **Reinforcement Learning**, **LLMs**, and **NLP**.
+
+### Certified Private Pilot • Complex
+🗓️ Jun 2020 - Present  
+📍 California, United States  
+Flying since age 13, navigating from KPAO to KSFO, and beyond. Always looking to the skies for my next challenge.
+
+---
+
+## 🔧 Skills & Tools
+- **Languages**: Python, TensorFlow, PyTorch
+- **Technologies**: Embedded Systems, Computer Vision, Machine Learning
+- **Pilot Skills**: Navigation, Safety Compliance, Aircraft Handling
+
+## 🚁 Projects
 
 ### Stratus Drone Project
-- **Description**: Stratus is an autonomous drone designed for efficient search and rescue and wildfire detection. It utilizes advanced computer vision algorithms and environmental data to predict and analyze fire spread and locate people in distress.
-- **Tech Stack**: Python, TensorFlow, PyTorch, Raspberry Pi, Jetson Nano.
-- **Achievements**:
-  - Presented at the Silicon Valley Maker Faire.
-  - Received positive feedback for innovative use of technology in emergency response.
-  - [Link to Project](#)
+An advanced autonomous drone aimed at improving **wildfire detection** and **search and rescue operations**. [More about Stratus](#)
 
-### Pantry Chef AI (Project C)
-- **Description**: A SaaS that recommends recipes based on ingredients spotted in your kitchen. This project uses image recognition and a large database of recipes to make cooking fun and accessible.
-- **Tech Stack**: Python, Flask, Edamam API.
-- **Collaborations**: Featuring content from a BuzzFeed Tasty Instagram influencer to boost engagement.
-- **[Link to Project](#)**
+### PantryChef AI
+An AI-powered app that suggests recipes based on the ingredients you have at home. [Discover PantryChef](#)
 
-## Publications 📄
-- "Enhancing UAV Capabilities in Wildfire Detection and Search & Rescue Operations Using AI" - Exploring the integration of AI with UAVs for better performance in complex environments.
-- [Link to Paper](#)
+---
 
-## Awards 🏆
-- FAA Private Pilot Certificate, 2024.
-- Hiller Aviation Museum Flight Training Scholarship, 2024.
-- Mini Maker of the Year, Barnes & Noble.
+## 🏆 Achievements & Awards
+- **Hiller Aviation Museum Flight Training Scholarship**: Recognized for my potential in aviation with a $15,000 scholarship award.
+- **Esports Achievement & Educational Impact by Stride, Inc.**
 
-## Connect with Me 🤝
-- **LinkedIn**: [MizanRT](https://www.linkedin.com/in/mizanrt/)
-- **Email**: [mizan.rupan-tompkins@sjsu.edu](mailto:mizan.rupan-tompkins@sjsu.edu)
+## 📬 Let's Connect!
+Feel free to reach out if you're interested in collaborating or if you have any opportunities or ideas you'd like to share.
 
-Feel free to browse through my repositories and let's get in touch! 🌐
+- 📥 **LinkedIn**: [Mizan Tompkins](https://www.linkedin.com/in/mizanrt)
+- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+
+Let's make a difference together! 💡🌍
